@@ -1,0 +1,8 @@
+.terraform
+terraform.tfstate
+*.tfstate*
+*.zip
+.idea
+secret.auto.tfvars
+images/
+
